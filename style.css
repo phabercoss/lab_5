@@ -1,0 +1,16 @@
+body {
+  background-color: royalBlue
+}
+h1
+{
+  color: purple;
+  text-align: center;
+  font-family: Impact;
+  font-size: 60px;
+}
+#tablep
+{
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
