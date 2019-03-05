@@ -1,16 +1,39 @@
 body {
-  background-color: royalBlue
+  background-color: royalBlue;
 }
 h1
 {
-  color: purple;
+  color: indigo;
   text-align: center;
   font-family: Impact;
-  font-size: 60px;
+  font-size: 100px;
 }
 #tablep
 {
+border-style: dashed;
+border-width: 1px;
+border-color: black;
 text-align: center;
 margin-left: auto;
 margin-right: auto;
+height: 30%;
+
+}
+table, th, td {
+  border: 1px solid black
+}
+th
+{
+  font-family: monospace;
+  font-size: 15px;
+  font-weight: 700px;
+  text-align: center;
+  color: darkGreen;
+}
+td
+{
+  font-family: Century, arial;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: center;
 }
